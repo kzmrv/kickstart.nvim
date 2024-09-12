@@ -204,6 +204,6 @@ vim.api.nvim_create_autocmd('TextYankPost', {
   end,
 })
 
-require 'lazyconf'
+require 'config.lazy'
 require 'editor'
 require 'remaps'
