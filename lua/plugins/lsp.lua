@@ -171,7 +171,7 @@ return {
         csharp_ls = {},
         rust_analyzer = {},
         -- clangd = {},
-        -- gopls = {},
+        gopls = {},
         -- pyright = {},
         -- rust_analyzer = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
